@@ -5,6 +5,15 @@
 
 <!-- body sector -->
 
+<div align="center">
+  <h4>💻어제보다 나은 오늘을 꿈꾸는 백엔드 개발자 오현성입니다.</h4>
+<!-- 	<div>
+		Email : dhgustjd10@gmail.com 
+		<br>
+		Instagram : dhgustjd10@gmail.com
+	</div> -->
+  
+</div>
 
 <!-- status -->
 <!--<h3 align="center">💻 My Github Stats 💻</h3>
