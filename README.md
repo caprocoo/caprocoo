@@ -7,12 +7,12 @@
 
 
 <!-- status -->
-<h3 align="center">💻 My Github Stats 💻</h3>
+<!--<h3 align="center">💻 My Github Stats 💻</h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caprocoo&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dracula)](https://github.com/caprocoo/github-readme-stats)
 </div>
-
+-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caprocoo&layout=compact)](https://github.com/caprocoo/github-readme-stats)
  -->
 
